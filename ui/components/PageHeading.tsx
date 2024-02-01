@@ -1,5 +1,12 @@
-export default function PageHeading({ children }) {
+import React, { ReactNode } from 'react';
+
+interface PageHeadingProps {
+  children: ReactNode;
+}
+
+export default function PageHeading({ children }: PageHeadingProps) {
   return (
-    <h1 className="text-2xl font-bold leading-7 text-green-300 sm:truncate sm:text-3xl sm:tracking-tight">{children}</h1>
+<h1 className="text-3xl font-semibold leading-7 text-blue-500 sm:truncate sm:text-4xl sm:tracking-tight flex items-center justify-center h-16">{children}</h1>
+
   )
 }
