@@ -1,0 +1,27 @@
+{
+  "name": "Snow",
+  "symbol": "Elements",
+  "description": "Snow Before Rain",
+  "seller_fee_basis_points": 100,
+  "image": "2.png",
+  "external_url": "http://alchemy.com",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Element",
+      "value": "White"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

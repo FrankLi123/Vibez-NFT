@@ -1,0 +1,31 @@
+{
+  "name": "Vibe Collection #0",
+  "symbol": "VC",
+  "description": "All about Vibe",
+  "seller_fee_basis_points": 100,
+  "image": "0.png",
+  "external_url": "http://alchemy.com",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

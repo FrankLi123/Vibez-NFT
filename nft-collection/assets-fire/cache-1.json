@@ -1,0 +1,25 @@
+{
+  "program": {
+    "candyMachine": "FZhE867Ybn349PqSwRHktVUMDs6Sum24N1VfsRYFo8Ap",
+    "candyMachineCreator": "CyVRX6D8PudXUH5uKH3cNB6PKcvxgdtmkKy9JYtLAYH8",
+    "collectionMint": "9BHkDUrfpei3XNpepZRY8MKdhVgBMepYyAv7ayms6LYv"
+  },
+  "items": {
+    "-1": {
+      "name": "Fire over Ocean",
+      "image_hash": "5ddf93b7839175e078c94967388dc86715c7d25a65e111717291da792cc236e2",
+      "image_link": "https://arweave.net/RaD8rFx16XNnp1LU8oaa2qL2Dgz8LOoMU4MmcMJCkyE?ext=png",
+      "metadata_hash": "5563184c62ebabeb42e6c06445cbe1feb4568af4ed3231dfe2cb7ad4d0d55b3b",
+      "metadata_link": "https://arweave.net/M4HL_uI2pTFaOmraFgdEe5F-5b22SIyKYf-q2TOW--E",
+      "onChain": true
+    },
+    "0": {
+      "name": "Fire over Ocean",
+      "image_hash": "5ddf93b7839175e078c94967388dc86715c7d25a65e111717291da792cc236e2",
+      "image_link": "https://arweave.net/TM1Ps5LRLkIJNXHyda7WVb1XByonE3exImXwGluR98o?ext=png",
+      "metadata_hash": "5563184c62ebabeb42e6c06445cbe1feb4568af4ed3231dfe2cb7ad4d0d55b3b",
+      "metadata_link": "https://arweave.net/jkM0CWbrz68uPuvtHs4WsglHkxOUOTsPHw9qWoLHX1E",
+      "onChain": true
+    }
+  }
+}

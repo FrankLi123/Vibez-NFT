@@ -1,0 +1,27 @@
+{
+  "name": "RainBow Splash",
+  "symbol": "Elements",
+  "description": "",
+  "seller_fee_basis_points": 100,
+  "image": "3.png",
+  "external_url": "http://alchemy.com",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue and Red"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water and Fire"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

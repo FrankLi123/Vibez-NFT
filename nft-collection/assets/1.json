@@ -1,0 +1,27 @@
+{
+  "name": "Water Splash",
+  "symbol": "Elements",
+  "description": "Elements - Water",
+  "seller_fee_basis_points": 100,
+  "image": "1.png",
+  "external_url": "http://alchemy.com",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

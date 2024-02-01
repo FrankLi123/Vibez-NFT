@@ -1,0 +1,49 @@
+{
+  "program": {
+    "candyMachine": "5nLSyfW1YUhSryZdD2cZ8hMxpioWgMF7Ztp9bCjD7enM",
+    "candyMachineCreator": "CGjfmftvYpmupU5jNmATS4ucBmpDdHedzQ8hHFD5nToX",
+    "collectionMint": "G1qbjtUHKiXbVZziRA6rdFs8LV2wYJagdXtNYayCkhRW"
+  },
+  "items": {
+    "-1": {
+      "name": "Abstract Elemenets",
+      "image_hash": "5ddf93b7839175e078c94967388dc86715c7d25a65e111717291da792cc236e2",
+      "image_link": "https://arweave.net/tN2M704ANw1CUyzOH1Ip8uNNyCkzANguZNq-M0NqerQ?ext=png",
+      "metadata_hash": "3e2ad7b1389bda19de46643c86454b0afb2b7e9a4f21a2acb12a99c08f51f717",
+      "metadata_link": "https://arweave.net/2ibGYjFvy6qhmd9waXXudIgKlCKopv7rzvxoy3E8tRE",
+      "onChain": true
+    },
+    "0": {
+      "name": "Fire over Ocean",
+      "image_hash": "5ddf93b7839175e078c94967388dc86715c7d25a65e111717291da792cc236e2",
+      "image_link": "https://arweave.net/cCIVrSWlDMMhiXszHJDL07k5kqnBNTrJ_sAFDwfG1Nw?ext=png",
+      "metadata_hash": "d83b259ff03d18acf7575591998afdde98ff4661502eb27ecf6f587f7fd2c293",
+      "metadata_link": "https://arweave.net/qW8AN6TA37QD3DZ2joliRpeiqCPTe7x1bv-87WFLfak",
+      "onChain": true
+    },
+    "1": {
+      "name": "Water Splash",
+      "image_hash": "b24b9239e230b9c46e31911792aa427d35e7dd82955fdf536e8d186200988d56",
+      "image_link": "https://arweave.net/Q4b1vT8JEv0VGiNcd3v66XFQZk3xdVO8eRZntfxUIqo?ext=png",
+      "metadata_hash": "bc6fa6dc643a6d3d2c5c95744bff40ff0803fd34eab0ae0849f5b527e9c87a88",
+      "metadata_link": "https://arweave.net/pmYIKczjSNq-XwLBDlLxqAEh7aivHCCgWcasxqabXzs",
+      "onChain": true
+    },
+    "2": {
+      "name": "Snow",
+      "image_hash": "f42391a0c7b0981c1a97e83a788b13ea6fd68ae1ef51f7437976182603b7a8d3",
+      "image_link": "https://arweave.net/n8cFmuKrD68o_ougLA8jXxoG1tDPco-cRqOREanvpSw?ext=png",
+      "metadata_hash": "5cb9bf077654ce2de060cdbd9642b6389e4be3e4dbe9b1ed82da25d685eb2c93",
+      "metadata_link": "https://arweave.net/ZZ3BKSyS9t8LrTr7PSHs8brTdb8CJsPcvUiBvnShnu4",
+      "onChain": true
+    },
+    "3": {
+      "name": "RainBow Splash",
+      "image_hash": "8d73f6f172191d020637438a178da6f7667582d9ed74e2881847104a9154fb24",
+      "image_link": "https://arweave.net/Js2xWFEsRU_lhjd8tKfp4nEA1q8E0A_nJ8m4g7WAtv4?ext=png",
+      "metadata_hash": "a25ce1bf46350b67d80e7506ea4b0a41924784e7a916582a2b4220fd95c7d13f",
+      "metadata_link": "https://arweave.net/gA1eQuqe4O-hHLjhPL1fZ-YWMYesyulODwByipx7Kcc",
+      "onChain": true
+    }
+  }
+}
